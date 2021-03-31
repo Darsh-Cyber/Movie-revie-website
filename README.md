@@ -1,1 +1,1 @@
-# Movie-revie-website
+# Movie-review and rating-website
